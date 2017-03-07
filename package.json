@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Edwardx89/twitter/issues"
   },
-  "homepage": "https://github.com/Edwardx89/twitter#readme"
+  "homepage": "https://github.com/Edwardx89/twitter#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
